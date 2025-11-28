@@ -12,16 +12,16 @@ console.log(myName);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
-const Number = 26;
-const Text = "Guppy è il mio gattino!";
-let Bool = true; 
+const number = 26;
+const text = "Guppy è il mio gattino!";
+let bool = true; 
 
-console.log(Number);
-console.log(typeof Number)
-console.log(Text);
-console.log(typeof Text);
-console.log(Bool);
-console.log(typeof Bool);
+console.log(number);
+console.log(typeof number)
+console.log(text);
+console.log(typeof text);
+console.log(bool);
+console.log(typeof bool);
 
 //ho fatto un check con "typeof" per essere sicura che abbia scritto correttamente i valori
 
